@@ -29,5 +29,6 @@ Anemia Sense is a lightweight and intelligent system that utilizes machine learn
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/Abhi-anirudh/Anemia-Sense-Leveraging-Machine-Learning-For-Precise-Anemia-Recognitions.git
+   https://github.com/AnanyaSri14/Anemia-Sense-Leveraging-Machine-Learning-For-Precise-Anemia-Recognitions.git
    cd Anemia-Sense-Leveraging-Machine-Learning-For-Precise-Anemia-Recognitions
+
